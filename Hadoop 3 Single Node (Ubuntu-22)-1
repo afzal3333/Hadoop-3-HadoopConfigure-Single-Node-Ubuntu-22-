@@ -140,7 +140,7 @@ start-dfs.sh
 start-yarn.sh
 
 
-$jps
+$ dhs -a jps
 5315 Name Node
 
 
